@@ -1,0 +1,25 @@
+/* Selector {propiedades: valor:} */
+
+body{
+    background-color: #0dcaf0;
+}
+p,h4,h5 {
+    color: black;
+}
+.barra_navegacion{
+    border: 2px black;
+    text-align: center;
+}
+.contenido{
+    color: #01007d;
+    font-style: italic;
+}
+.pie_pagina{
+    border: 2px solid black;
+    text-align: center;
+
+}
+pie_pagina p{
+    padding: 0;
+    margin: 0;
+}
